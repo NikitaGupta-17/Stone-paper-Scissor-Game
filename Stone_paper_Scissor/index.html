@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>STONE PAPER SCISSOR</title>
+    <link rel="stylesheet" href="./style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-6 text-center shadow-lg p-3 mb-5 bg-white rounded">
+                <h1>STONE PAPER SCISSOR</h1>
+                <table class="table">
+                    <tr>
+                        <td><button id="sc" onclick="my_fun2(); my_fun();"><img src="scissor.jfif" alt="Scissor" style="width:100px;height:100px"></button></td>
+                        <td><button id="st" onclick="my_fun3(); my_fun()"><img src="stone.jfif" alt="Stone" style="width:100px;height:100px"></button></td>
+                        <td><button id="paper" onclick="my_fun4(); my_fun()"><img src="paper.jpg" alt="Paper" style="width:100px;height:100px"></button></td>
+                    </tr>
+                </table>
+                <br><br>
+                <button id="but" onclick="myfun_1()">RESET</button>
+                <br><br>
+                <p id="print"></p>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
+<script src="./index.js"></script>

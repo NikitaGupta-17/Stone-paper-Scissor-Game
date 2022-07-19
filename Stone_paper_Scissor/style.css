@@ -1,0 +1,24 @@
+body {
+    background-image: linear-gradient(to right, #9a5ddc 0%, #7fa4e5 100%);
+}
+
+.col-md-6 {
+    margin-top: 150px !important;
+    background-image: linear-gradient(to right, #9f58eb 0%, #6797eb 100%);
+}
+
+#but {
+    padding: 5px 5px 5px 5px;
+    border: 1px solid rgb(171, 234, 132);
+    margin: auto;
+    border-radius: 4px;
+    background-color: rgb(19, 167, 164);
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#print {
+    color: white;
+    font-size: 20x;
+}
