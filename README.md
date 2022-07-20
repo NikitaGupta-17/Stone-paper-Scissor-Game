@@ -6,3 +6,4 @@ An alert is display displaying who won after the final round.
 I am only responsible for developing this project.
 <img src="https://github.com/NikitaGupta-17/Stone-paper-Scissor-Game/blob/main/Inital%20view.png">
 <img src="https://github.com/NikitaGupta-17/Stone-paper-Scissor-Game/blob/main/s2.png">
+<img src="https://github.com/NikitaGupta-17/Stone-paper-Scissor-Game/blob/main/s3.png">
