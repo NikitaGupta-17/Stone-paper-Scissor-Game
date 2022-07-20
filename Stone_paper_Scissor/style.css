@@ -1,31 +1,34 @@
 body {
-    background-image: linear-gradient(to right, #9a5ddc 0%, #7fa4e5 100%);
+    background-image: linear-gradient(to top right, #33ccff 0%, #ff99cc 100%);
 }
 
 #id1 {
     display: block;
-    margin-top: 150px !important;
-    background-image: linear-gradient(to right, #9f58eb 0%, #6797eb 100%);
+    color: white;
+    margin-top: 200px !important;
+    margin-left: 700px !important;
 }
 
 #id2 {
     display: none;
+    color: white;
     margin-top: 150px !important;
     background-image: linear-gradient(to right, #9f58eb 0%, #6797eb 100%);
 }
 
 #id3 {
     display: none;
+    color: white;
     margin-top: 150px !important;
 }
 
 #id4 {
     display: none;
+    color: white;
     margin-top: 150px !important;
 }
 
 .col-md-4 {
-    margin-top: 150px !important;
     background-image: linear-gradient(to right, #9f58eb 0%, #6797eb 100%);
 }
 
