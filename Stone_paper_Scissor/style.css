@@ -2,8 +2,37 @@ body {
     background-image: linear-gradient(to right, #9a5ddc 0%, #7fa4e5 100%);
 }
 
-.col-md-6 {
+#id1 {
+    display: block;
     margin-top: 150px !important;
+    background-image: linear-gradient(to right, #9f58eb 0%, #6797eb 100%);
+}
+
+#id2 {
+    display: none;
+    margin-top: 150px !important;
+    background-image: linear-gradient(to right, #9f58eb 0%, #6797eb 100%);
+}
+
+#id3 {
+    display: none;
+    margin-top: 150px !important;
+}
+
+#id4 {
+    display: none;
+    margin-top: 150px !important;
+}
+
+.col-md-4 {
+    margin-top: 150px !important;
+    background-image: linear-gradient(to right, #9f58eb 0%, #6797eb 100%);
+}
+
+.col-md-5 {
+    position: absolute;
+    top: 80px;
+    right: 40px;
     background-image: linear-gradient(to right, #9f58eb 0%, #6797eb 100%);
 }
 
@@ -21,4 +50,19 @@ body {
 #print {
     color: white;
     font-size: 20x;
+}
+
+#round {
+    color: white;
+    font-size: 20px;
+    background-color: aqua;
+}
+
+.col-md-3 {
+    background-image: linear-gradient(to right, #9f58eb 0%, #6797eb 100%);
+}
+
+h1 {
+    text-align: center;
+    background-image: linear-gradient(to right, #9f58eb 0%, #6797eb 100%);
 }
