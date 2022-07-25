@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(to top right, #33ccff 0%, #ff99cc 100%);
+    background-image: linear-gradient(120deg, #33ccff 0%, #ff99cc 100%);
 }
 
 #id1 {
@@ -13,7 +13,7 @@ body {
     display: none;
     color: white;
     margin-top: 150px !important;
-    background-image: linear-gradient(to right, #9f58eb 0%, #6797eb 100%);
+    background-image: linear-gradient(120deg, #9f58eb 0%, #6797eb 100%);
 }
 
 #id3 {
@@ -29,14 +29,14 @@ body {
 }
 
 .col-md-4 {
-    background-image: linear-gradient(to right, #9f58eb 0%, #6797eb 100%);
+    background-image: linear-gradient(120deg, #9f58eb 0%, #6797eb 100%);
 }
 
 .col-md-5 {
     position: absolute;
     top: 80px;
     right: 40px;
-    background-image: linear-gradient(to right, #9f58eb 0%, #6797eb 100%);
+    background-image: linear-gradient(120deg, #9f58eb 0%, #6797eb 100%);
 }
 
 #but {
@@ -62,10 +62,10 @@ body {
 }
 
 .col-md-3 {
-    background-image: linear-gradient(to right, #9f58eb 0%, #6797eb 100%);
+    background-image: linear-gradient(120deg, #9f58eb 0%, #6797eb 100%);
 }
 
 h1 {
     text-align: center;
-    background-image: linear-gradient(to right, #9f58eb 0%, #6797eb 100%);
+    background-image: linear-gradient(120deg, #9f58eb 0%, #6797eb 100%);
 }
